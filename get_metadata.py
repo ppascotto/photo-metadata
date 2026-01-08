@@ -8,6 +8,26 @@ import cleanup
 
 OUTPUT_DIR = "Output"
 
+def get_ext(name):
+    if name.casefold().endswith('jpg'):
+        return 'jpg'
+    elif name.casefold().endswith('mov'):
+        return 'mov'
+    elif name.casefold().endswith('mp4'):
+        return 'mp4'
+    elif name.casefold().endswith('heic'):
+        return 'HEIC'
+
+def shorten_filename(name, EXT):
+    """Remove one character before the extension."""
+    if not name.endswith(EXT):
+        return None
+
+    base = name[:-len(EXT)]
+    if len(base) == 0:
+        return None
+
+    return base[:-1] + EXT
 
 def datetime_from_json(data):
     if "photoTakenTime" in data:
