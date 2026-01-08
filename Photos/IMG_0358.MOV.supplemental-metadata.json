@@ -1,0 +1,33 @@
+{
+  "title": "IMG_0358.MOV",
+  "description": "",
+  "imageViews": "50",
+  "creationTime": {
+    "timestamp": "1522773746",
+    "formatted": "Apr 3, 2018, 4:42:26 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1522495087",
+    "formatted": "Mar 31, 2018, 11:18:07 AM UTC"
+  },
+  "geoData": {
+    "latitude": 43.192699999999995,
+    "longitude": -82.5084,
+    "altitude": 401.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 43.192699999999995,
+    "longitude": -82.5084,
+    "altitude": 401.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOfcuWqiXR5KfjyDLIkGkcRLSYDsOEF_Y5ZDqFx",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

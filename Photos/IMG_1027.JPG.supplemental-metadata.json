@@ -1,0 +1,38 @@
+{
+  "title": "IMG_1027.JPG",
+  "description": "",
+  "imageViews": "50",
+  "creationTime": {
+    "timestamp": "1527997787",
+    "formatted": "Jun 3, 2018, 3:49:47 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1527110921",
+    "formatted": "May 23, 2018, 9:28:41 PM UTC"
+  },
+  "geoData": {
+    "latitude": 41.4806056,
+    "longitude": -82.683075,
+    "altitude": 183.3018181818182,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 41.4806056,
+    "longitude": -82.683075,
+    "altitude": 183.3018181818182,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Brendt Stephens"
+  }, {
+    "name": "Pedro Pascotto"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipOb68Ret21NZQ_wzyHKhJOXtRLj1AmH-SRhlF3x",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "IMG_8712.JPG",
+  "description": "",
+  "imageViews": "61",
+  "creationTime": {
+    "timestamp": "1529001277",
+    "formatted": "Jun 14, 2018, 6:34:37 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1528333816",
+    "formatted": "Jun 7, 2018, 1:10:16 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ben Stefadu"
+  }, {
+    "name": "Pedro Pascotto"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipPViMfEsjf59Vr0Fd_-bQEHA4kq7F8RZG9rLttl",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

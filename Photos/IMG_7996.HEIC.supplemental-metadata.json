@@ -1,0 +1,33 @@
+{
+  "title": "IMG_7996.HEIC",
+  "description": "",
+  "imageViews": "52",
+  "creationTime": {
+    "timestamp": "1521755672",
+    "formatted": "Mar 22, 2018, 9:54:32 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1518652607",
+    "formatted": "Feb 14, 2018, 11:56:47 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Pedro Pascotto"
+  }, {
+    "name": "Ben Stefadu"
+  }, {
+    "name": "Brendt Stephens"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipP9aYux_EKq5D3W7FTEz0I4Y3ahPKjND5YtRf51",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

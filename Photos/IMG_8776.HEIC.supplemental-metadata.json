@@ -1,0 +1,29 @@
+{
+  "title": "IMG_8776.HEIC",
+  "description": "",
+  "imageViews": "46",
+  "creationTime": {
+    "timestamp": "1534912267",
+    "formatted": "Aug 22, 2018, 4:31:07 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1534697956",
+    "formatted": "Aug 19, 2018, 4:59:16 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Alessandro"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipP0ShUvxWneKbasaTHmeRQpOEpwC2dHcw7BpOj8",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

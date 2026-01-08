@@ -1,0 +1,29 @@
+{
+  "title": "IMG_8783.HEIC",
+  "description": "",
+  "imageViews": "39",
+  "creationTime": {
+    "timestamp": "1534912275",
+    "formatted": "Aug 22, 2018, 4:31:15 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1534703526",
+    "formatted": "Aug 19, 2018, 6:32:06 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Alessandro"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipNXSro2UAAHvKoY-NA_w-6qfi9nV7vTfDR11ynT",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "9071AFA2-03C1-4129-8B4C-FAE0E82CBCFD.mp4",
+  "description": "",
+  "imageViews": "66",
+  "creationTime": {
+    "timestamp": "1529001339",
+    "formatted": "Jun 14, 2018, 6:35:39 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1528865230",
+    "formatted": "Jun 13, 2018, 4:47:10 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Pedro Pascotto"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipOH_kqPP-XjIPd_-x39W6IFuzTJJYi9-VtyzK3O",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

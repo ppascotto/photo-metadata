@@ -1,0 +1,29 @@
+{
+  "title": "IMG_8512.JPG",
+  "description": "",
+  "imageViews": "67",
+  "creationTime": {
+    "timestamp": "1526490535",
+    "formatted": "May 16, 2018, 5:08:55 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1526155682",
+    "formatted": "May 12, 2018, 8:08:02 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Pedro Pascotto"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipOt-1orE9eIs8R6EDGSheiJb1uGBESKUXC4UYVt",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "D9990FE8-4589-4725-81EC-A35F8392BEB9.mp4",
+  "description": "",
+  "imageViews": "58",
+  "creationTime": {
+    "timestamp": "1529001327",
+    "formatted": "Jun 14, 2018, 6:35:27 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1528853459",
+    "formatted": "Jun 13, 2018, 1:30:59 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Brendt Stephens"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipPL3zPkg8u2p7BeRpzI8NdAZUKEZTaob3yvtd5I",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

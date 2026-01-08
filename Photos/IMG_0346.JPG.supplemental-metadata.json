@@ -1,0 +1,33 @@
+{
+  "title": "IMG_0346.JPG",
+  "description": "",
+  "imageViews": "51",
+  "creationTime": {
+    "timestamp": "1522773631",
+    "formatted": "Apr 3, 2018, 4:40:31 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1522420978",
+    "formatted": "Mar 30, 2018, 2:42:58 PM UTC"
+  },
+  "geoData": {
+    "latitude": 43.1926528,
+    "longitude": -82.5093833,
+    "altitude": 175.84814814814814,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 43.1926528,
+    "longitude": -82.5093833,
+    "altitude": 175.84814814814814,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNWbicL83BYnZduZTugoRm6rUqXXVyJQPLseSVK",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

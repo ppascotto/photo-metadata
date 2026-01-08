@@ -4,19 +4,18 @@ import os
 import json
 import shutil
 from datetime import datetime, timezone
-import cleanup
 
 OUTPUT_DIR = "Output"
 
 def get_ext(name):
     if name.casefold().endswith('jpg'):
-        return 'jpg'
+        return '.jpg'
     elif name.casefold().endswith('mov'):
-        return 'mov'
+        return '.mov'
     elif name.casefold().endswith('mp4'):
-        return 'mp4'
+        return '.mp4'
     elif name.casefold().endswith('heic'):
-        return 'HEIC'
+        return '.HEIC'
 
 def shorten_filename(name, EXT):
     """Remove one character before the extension."""
@@ -71,17 +70,29 @@ def main():
             print(f"Skipping {filename}: no title field")
             continue
 
-        src = title
-        if not os.path.exists(src):
-            print(f"Media file not found for {filename}: {src}")
-            continue
+        EXT = get_ext(title)
+        current_name = title
+        while current_name:
+            if os.path.isfile(current_name):
+                src = current_name
+                break
+            else:
+                next_name = shorten_filename(current_name, EXT)
+                if next_name == current_name or next_name is None:
+                    print('File '+title+' not found')
+                    break
+            current_name = next_name
+
+        # src = title
+        # if not os.path.exists(src):
+        #     print(f"Media file not found for {filename}: {src}")
+        #     continue
 
         ext = os.path.splitext(src)[1].lower()
         name = dt.strftime("%Y%m%d_%H%M%S") + ext
         dst = os.path.join(OUTPUT_DIR, name)
 
         safe_copy(src, dst)
-
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,26 @@
+{
+  "title": "IMG_8095.JPG",
+  "description": "",
+  "imageViews": "87",
+  "creationTime": {
+    "timestamp": "1521755675",
+    "formatted": "Mar 22, 2018, 9:54:35 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1519836720",
+    "formatted": "Feb 28, 2018, 4:52:00 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOD518DvNkHOD-4kAu9IvYSTL3iVgYN9fRmEubZ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

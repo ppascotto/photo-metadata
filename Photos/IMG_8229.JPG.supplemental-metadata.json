@@ -1,0 +1,26 @@
+{
+  "title": "IMG_8229.JPG",
+  "description": "",
+  "imageViews": "50",
+  "creationTime": {
+    "timestamp": "1522734126",
+    "formatted": "Apr 3, 2018, 5:42:06 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1522434245",
+    "formatted": "Mar 30, 2018, 6:24:05 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMif8-w4gKmTsvlRk-U9VpFDw4YMqeqaUq1Qutg",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

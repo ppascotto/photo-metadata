@@ -1,0 +1,26 @@
+{
+  "title": "IMG_8768.HEIC",
+  "description": "",
+  "imageViews": "40",
+  "creationTime": {
+    "timestamp": "1534912262",
+    "formatted": "Aug 22, 2018, 4:31:02 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1534697535",
+    "formatted": "Aug 19, 2018, 4:52:15 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPYxi8MKwUCcDWBVsBPwu63nKaagxGwHUvPOmPl",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

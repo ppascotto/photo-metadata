@@ -1,0 +1,31 @@
+{
+  "title": "IMG_0373.PNG",
+  "description": "",
+  "imageViews": "38",
+  "creationTime": {
+    "timestamp": "1541530820",
+    "formatted": "Nov 6, 2018, 7:00:20 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1541292556",
+    "formatted": "Nov 4, 2018, 12:49:16 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Pedro Pascotto"
+  }, {
+    "name": "Ben Stefadu"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipOzbhwFVY-nVlniAnoYWZVInoBNKaFW_kPwFs41",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "IMG_5190.JPG",
+  "description": "",
+  "imageViews": "10",
+  "creationTime": {
+    "timestamp": "1733696687",
+    "formatted": "Dec 8, 2024, 10:24:47 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1533733800",
+    "formatted": "Aug 8, 2018, 1:10:00 PM UTC"
+  },
+  "geoData": {
+    "latitude": 42.6064095,
+    "longitude": -83.1497751,
+    "altitude": 0.0,
+    "latitudeSpan": 0.045203899999998104,
+    "longitudeSpan": 0.061166999999998785
+  },
+  "url": "https://photos.google.com/photo/AF1QipO2V1qyPiaiwdn3fVh3f6ak4bZapSaCaNRPeoC0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "IMG_8071.JPG",
+  "description": "",
+  "imageViews": "95",
+  "creationTime": {
+    "timestamp": "1521755673",
+    "formatted": "Mar 22, 2018, 9:54:33 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1519787624",
+    "formatted": "Feb 28, 2018, 3:13:44 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Pedro Pascotto"
+  }, {
+    "name": "Ben Stefadu"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipOf-4Xz8NiyG5j3BItBYOtJUpWHNKyDB1DeJT0r",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

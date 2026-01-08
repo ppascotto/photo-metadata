@@ -1,0 +1,33 @@
+{
+  "title": "IMG_0137.HEIC",
+  "description": "",
+  "imageViews": "40",
+  "creationTime": {
+    "timestamp": "1534721194",
+    "formatted": "Aug 19, 2018, 11:26:34 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1534709558",
+    "formatted": "Aug 19, 2018, 8:12:38 PM UTC"
+  },
+  "geoData": {
+    "latitude": 40.6842833,
+    "longitude": -74.0354,
+    "altitude": 15.906639004149378,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 40.6842833,
+    "longitude": -74.0354,
+    "altitude": 15.906639004149378,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipP41V7IFOC4VvRDohnGjnwoxHZZUPs2-UZPvcot",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

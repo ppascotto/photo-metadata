@@ -1,0 +1,31 @@
+{
+  "title": "IMG_8666.JPG",
+  "description": "",
+  "imageViews": "79",
+  "creationTime": {
+    "timestamp": "1527997849",
+    "formatted": "Jun 3, 2018, 3:50:49 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1527801417",
+    "formatted": "May 31, 2018, 9:16:57 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ben Stefadu"
+  }, {
+    "name": "Pedro Pascotto"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipMfkUGDmdyIhN94nboIV0uyn5BdaRMkCO3pt5vB",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}
