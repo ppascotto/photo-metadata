@@ -14,6 +14,8 @@ def get_ext(name):
         return '.mov'
     elif name.casefold().endswith('mp4'):
         return '.mp4'
+    elif name.casefold().endswith('png'):
+        return '.png'
     elif name.casefold().endswith('heic'):
         return '.HEIC'
 
